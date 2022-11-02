@@ -1,0 +1,11 @@
+ .fraseContainer {
+background-color: rgb(255, 254, 254);
+
+border: 1px  solid #fff;
+}
+
+.fraseContent {
+    color: rgb(95, 143, 64);
+    background-color: rgb(55, 88, 114);
+    margin: 0%;
+}
